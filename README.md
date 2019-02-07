@@ -1,2 +1,2 @@
-# reject
-login reject all LINE groups invite
+
+Once you login your LINE account will reject all groups invite
