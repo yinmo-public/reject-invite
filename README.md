@@ -1,9 +1,29 @@
-# Update 02/09/2019 
-Fix by [北山 Kitayama](https://git.nekomoe.cf/rootmelo92118/reject-invite)
+# ![logo](LINE.png) LINE Python
 
-Once you login your LINE account will reject all groups invited
+ [![Supported python versions: 3.x](https://img.shields.io/badge/python-3.x-green.svg "Supported python versions: 3.x")](https://www.python.org/downloads/) 
 
+*LINE Message Unofficial API* [here](https://github.com/yinmo-public/linepy)
+
+----
+
+## Requirement
+
+The linepy module requires Python 3.x  [download](https://www.python.org/downloads/). 
+
+## Updates 02/28/2019
+```
+* Fix logic
+* Add English version
+```
+
+## Warnings
+```
+Once you login your LINE groups will all rejected.
 Use it at your own risks !
+```
 
-linepy [here](https://github.com/yinmo-public/linepy)
+## Thanks to 
+[@rootmelo92118](https://github.com/rootmelo92118)
 
+## Credits to
+[@author](https://line.me/ti/p/3eamxoks_T)
