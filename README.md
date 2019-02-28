@@ -18,7 +18,7 @@ The linepy module requires Python 3.x  [download](https://www.python.org/downloa
 
 ## Warnings
 ```
-Once you login your LINE groups will all rejected.
+Once you login your LINE groups invitation will all rejected.
 Use it at your own risks !
 ```
 
