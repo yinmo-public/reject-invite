@@ -6,11 +6,14 @@
 
 ----
 
-## Requirement
+## Useage
+```
+yinmo = LINE()
+yinmo = LINE("token")
+yinmo = LINE("email","password")
+```
 
-The linepy module requires Python 3.x  [download](https://www.python.org/downloads/). 
-
-## Update 02/28/2019
+## Update 06/12/2019
 ```
 * Fix logic
 * Add English version
@@ -18,7 +21,6 @@ The linepy module requires Python 3.x  [download](https://www.python.org/downloa
 
 ## Warnings
 ```
-Once you login your LINE groups invitation will all rejected.
 Use it at your own risks !
 ```
 
