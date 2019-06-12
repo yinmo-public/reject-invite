@@ -6,7 +6,7 @@
 
 ----
 
-## Useage
+## Usage
 ```
 yinmo = LINE()
 yinmo = LINE("token")
