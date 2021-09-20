@@ -13,11 +13,8 @@ yinmo = LINE("token")
 yinmo = LINE("email","password")
 ```
 
-## Update 06/12/2019
-```
-* Fix logic
-* Add English version
-```
+## Update 2021
+⚠ DO NOT USE THIS CODE OR YOU WILL GET BAN CHAT
 
 ## Warnings
 ```
